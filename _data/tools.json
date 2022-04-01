@@ -18,6 +18,15 @@
       "type": "DAST"
    },
    {
+      "title": "Blacklock",
+      "url": "https://www.blacklock.io",
+      "owner": "Blacklock Security",
+      "license": "Commercial",
+      "platforms": "Any",
+      "note": "14-day trial",
+      "type": "PTaaS"
+   },
+   {
       "title": "ScanTitan Vulnerability Scanner",
       "url": "https://scantitan.com/website-vulnerability-scanner/",
       "owner": "ScanTitan",
